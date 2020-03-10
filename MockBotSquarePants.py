@@ -2,12 +2,10 @@
 
 # MockBotSquarePants.py - A script that handles the functionality of a Discord bot used to mock people
 
-from dotenv import load_dotenv
 from discord.ext import commands
 
 import discord
 
-load_dotenv()
 # For reasons why you should totally NOT put your Bot-Discord token in here (like I did) and instructions on how to store this better,
 # Visit here:     https://realpython.com/how-to-make-a-discord-bot-python/
 # To get this token, open the Discord Developer portal, click the "Bot" link on the left, then select "Copy" under the "Token" heading next to the profile picture of your bot.
