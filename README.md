@@ -3,7 +3,7 @@ A bot that lets you say exactly what that idiot just said but in a mocking tone 
 
 # Where to get
 You can invite the bot into your home here: https://top.gg/bot/686696556610715694
-*Note: Until I find a simple hosting solution or something else, this may not work. See the Setup section if you'd like this up and running right now*
+The bot is now hosted for free (and hopefully forever) via Heroku!
 
 
 # Description
@@ -16,6 +16,6 @@ Simply copy the text of your victim, prepend it with `~mock ` and you're done! M
 ![MockBotSquarePants Example](https://github.com/MasonStooksbury/MockBotSquarePants/blob/master/MBSPTest.png)
 
 # Setup
-Looking for the easiest solution possible, at the moment, and will update this once I find it. If you want to do it *right now*, check out these documents. But I'll update this once I have found some easier solution (if it exists).
+You can either steal this code and edit it however you like, then use the two articles below to get it setup. Or you can follow the link up to in the "Where to get" section to invite the bot directly
  - https://realpython.com/how-to-make-a-discord-bot-python/#handling-exceptions
  - https://techwithtim.net/tutorials/discord-py/hosting-a-discord-bot-for-free/
