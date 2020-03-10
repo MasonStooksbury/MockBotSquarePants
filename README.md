@@ -2,8 +2,9 @@
 A bot that lets you say exactly what that idiot just said but in a mocking tone of text.
 
 # Where to get
-You can invite the bot into your home here: https://top.gg/bot/686696556610715694
+You can invite the bot into your home here: https://discordapp.com/oauth2/authorize?client_id=686696556610715694&permissions=2048&scope=bot
 The bot is now hosted for free (and hopefully forever) via Heroku!
+You can view more details about the bot by clicking ![this link](https://top.gg/bot/686696556610715694), choosing "Login" when it explodes, and then allowing the Bot library to see who you are.
 
 
 # Description
