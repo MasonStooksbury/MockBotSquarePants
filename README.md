@@ -12,6 +12,6 @@ Simply copy the text of your victim, prepend it with `~mock ` and you're done! M
 ![MockBotSquarePants Example](https://github.com/MasonStooksbury/MockBotSquarePants/blob/master/MBSPTest.png)
 
 # Setup
-Looking for the easiest solution possible. If you want to do it *right now*, check out these documents. But I'll update this once I have some easier solution (if it exists).
+Looking for the easiest solution possible, at the moment, and will update this once I find it. If you want to do it *right now*, check out these documents. But I'll update this once I have found some easier solution (if it exists).
  - https://realpython.com/how-to-make-a-discord-bot-python/#handling-exceptions
  - https://techwithtim.net/tutorials/discord-py/hosting-a-discord-bot-for-free/
