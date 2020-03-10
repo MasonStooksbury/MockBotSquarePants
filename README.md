@@ -12,6 +12,7 @@ You can view more details about the bot by clicking here: https://top.gg/bot/686
 # Description
 Too often I find myself wanting to mock someone for something they just said. It's during these times that out-right making fun of them just doesn't do the trick. It was then that I learned about this meme. Essentially, the internet trolls have attached a sarcastic and mocking tone to alternating capitalization in a string of text. Just take a quick second to type in "spongebob mocking meme" and you will be met with plenty of golden examples for every scenario.
 <br>
+<br>
 All that being said, I needed a way to mock my friends in the platform we use the most: Discord. Thankfully, the wonderful people at Discord love nerds, and allow us to make cool bots to do (basically) anything we want. So what did I use it for? Stupid things, like always.
 
 # How it works
