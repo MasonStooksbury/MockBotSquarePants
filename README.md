@@ -3,7 +3,8 @@ A bot that lets you say exactly what that idiot just said but in a mocking tone 
 
 # Where to get
 You can invite the bot into your home here: https://discordapp.com/oauth2/authorize?client_id=686696556610715694&permissions=2048&scope=bot
-The bot is now hosted for free (and hopefully forever) via Heroku!
+The bot is now hosted for free (and hopefully forever) via Heroku! So all you should have to do is accept the bot invitation and you're ready to start mocking!
+<br>
 You can view more details about the bot by clicking here: https://top.gg/bot/686696556610715694, choosing "Login" when it explodes, and then allowing the Bot library to see who you are.
 
 
