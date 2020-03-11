@@ -1,5 +1,5 @@
 # MockBotSquarePants
-A bot that lets you say exactly what that idiot just said but in a mocking tone of text.
+A bot that mocks what your friend just said.
 
 # Where to get
 You can invite the bot into your home here: https://discordapp.com/oauth2/authorize?client_id=686696556610715694&permissions=2048&scope=bot
