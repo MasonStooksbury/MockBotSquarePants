@@ -2,7 +2,7 @@
 A bot that mocks what your friend just said.
 
 # Where to get
-You can invite the bot into your home here: https://discordapp.com/oauth2/authorize?client_id=686696556610715694&permissions=2048&scope=bot
+You can invite the bot into your home here: https://discordapp.com/api/oauth2/authorize?client_id=686696556610715694&permissions=10240&scope=bot
 The bot is now hosted for free (and hopefully forever) via Heroku! So all you should have to do is accept the bot invitation and you're ready to start mocking!
 <br>
 <br>
@@ -16,7 +16,7 @@ Too often I find myself wanting to mock someone for something they just said. It
 All that being said, I needed a way to mock my friends in the platform we use the most: Discord. Thankfully, the wonderful people at Discord love nerds, and allow us to make cool bots to do (basically) anything we want. So what did I use it for? Stupid things, like always.
 
 # How it works
-Simply copy the text of your victim, prepend it with `~mock ` and you're done! MockBotSquarePants will swoop in to mock them!
+Simply copy the text of your victim, prepend it with `~mock ` and you're done! MockBotSquarePants will swoop in to mock them! The bot is able to delete the message that invoked it so that it looks like the bot is mocking the person of its own accord. There is also a hidden Easter Egg that I'll leave you to find :)
 ![MockBotSquarePants Example](https://github.com/MasonStooksbury/MockBotSquarePants/blob/master/MBSPTest.png)
 
 # Setup
