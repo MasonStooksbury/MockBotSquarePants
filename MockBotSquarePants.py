@@ -31,11 +31,24 @@ def mockify(normalText):
     return mockText
 
 
-
+# Set the bot up to use the squiggly as the prefix
 bot = commands.Bot(command_prefix='~')
 
+# Specify that the main command is "mock" and also add a "help" command just in case
 @bot.command(name='mock', help='Says your words in the most mocking way possible')
-async def mock(ctx, *, message):
-    await ctx.send(mockify(message))
+async def mock(ctx, *, message = None):
+    # Delete the invocation message so it looks like the bot is saying this of its own accord
+    await discord.Message.delete(ctx.message)
+
+    # If they did not specify a message, send one of my favorite gifs instead
+    if not message:
+        await ctx.send('https://tenor.com/view/bowling-who-do-you-think-you-are-pete-weber-iam-rage-gif-16439033')
+    # Otherwise, mock them
+    else:
+        await ctx.send(mockify(message))
 
 bot.run(token)
+
+
+# Mason Stooksbury (2020)
+# <><
