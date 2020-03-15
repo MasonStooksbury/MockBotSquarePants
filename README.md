@@ -17,7 +17,7 @@ All that being said, I needed a way to mock my friends in the platform we use th
 
 # How it works
 Simply copy the text of your victim, prepend it with `~mock ` and you're done! MockBotSquarePants will swoop in to mock them! The bot is able to delete the message that invoked it so that it looks like the bot is mocking the person of its own accord. There is also a hidden Easter Egg that I'll leave you to find :)
-![MockBotSquarePants Example](https://github.com/MasonStooksbury/MockBotSquarePants/blob/master/MBSPTest.png)
+![MockBotSquarePants Example](https://github.com/MasonStooksbury/MockBotSquarePants/blob/master/MBSP.png)
 
 # Setup
 You can either steal this code (please fork it so I get a little credit!) and edit it however you like, then use the two articles below to get it setup. Or you can follow the link up top in the "Where to get" section to invite the bot directly.
