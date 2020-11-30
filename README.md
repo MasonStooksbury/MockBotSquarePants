@@ -1,11 +1,12 @@
 # MockBotSquarePants
 A bot that mocks what your friend just said.
 
+
+
+
+
 # Where to get
-You can invite the bot into your home here: https://discordapp.com/api/oauth2/authorize?client_id=686696556610715694&permissions=10240&scope=bot
-The bot is now hosted for free (and hopefully forever) via Heroku! So all you should have to do is accept the bot invitation and you're ready to start mocking!
-<br>
-<br>
+You'll need to run the bot yourself by cloning the code and setting up a bot yourself (instructions below) for now. But hopefully soon I'll find a good, free solution to host it permanently.
 You can view more details about the bot by clicking here: https://top.gg/bot/686696556610715694, choosing "Login" when it explodes, and then allowing the Bot library to see who you are.
 
 
